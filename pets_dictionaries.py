@@ -1,3 +1,4 @@
+#Pet dictionaries
 pet1 = {
     "Animal": "Dog",
     "Owner": "Jimmy"
@@ -18,6 +19,7 @@ pet4 = {
     "Owner": "Nataly"
 }
 
+#Pet list
 pets = [
     pet1, 
     pet2, 
@@ -25,6 +27,7 @@ pets = [
     pet4
 ]
 
+#Print
 for pet in pets:
     print("Animal:", pet["Animal"])
     print("Owner:", pet["Owner"])
