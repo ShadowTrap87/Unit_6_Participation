@@ -24,3 +24,8 @@ pets = [
     pet3, 
     pet4
 ]
+
+for pet in pets:
+    print("Animal:", pet["Animal"])
+    print("Owner:", pet["Owner"])
+    print()
