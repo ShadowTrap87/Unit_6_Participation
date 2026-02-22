@@ -13,3 +13,8 @@ pet3 = {
     "Owner": "Willam"
 }
 
+pet4 = {
+    "Animal": "Guinea pig",
+    "Owner": "Nataly"
+}
+
